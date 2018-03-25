@@ -19,3 +19,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# built component library
+/lib
+
+# buit docs
+/docs
+
+# generated component data
+/config/componentData.js
