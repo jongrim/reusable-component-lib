@@ -51,7 +51,7 @@
     "start:docs": "node scripts/start.js",
     "build": "node scripts/build.js",
     "gen:docs": "node scripts/generateComponentData.js",
-    "gen:docs-watch": "yarn gen:docs -- --watch",
+    "gen:docs-watch": "yarn gen:docs --watch",
     "test": "node scripts/test.js --env=jsdom"
   },
   "jest": {
